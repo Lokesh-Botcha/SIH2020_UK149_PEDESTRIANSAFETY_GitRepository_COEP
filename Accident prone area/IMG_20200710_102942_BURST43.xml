@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Accident prone area</folder>
+	<filename>IMG_20200710_102942_BURST43.jpg</filename>
+	<path>C:\Users\HP\Desktop\Accident prone area\IMG_20200710_102942_BURST43.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Accident prone area</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>52</ymin>
+			<xmax>272</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+</annotation>
