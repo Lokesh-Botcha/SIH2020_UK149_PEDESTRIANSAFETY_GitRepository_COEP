@@ -1,0 +1,26 @@
+<annotation>
+	<folder>schools</folder>
+	<filename>943153991554046.jpg</filename>
+	<path>C:\Users\sarik\Desktop\sih\schools\943153991554046.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>schools</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>75</ymin>
+			<xmax>234</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>
