@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speed breaker</folder>
+	<filename>11119166233.jpg</filename>
+	<path>C:\speed breaker\11119166233.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2240</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speed breaker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>348</xmin>
+			<ymin>822</ymin>
+			<xmax>1823</xmax>
+			<ymax>2309</ymax>
+		</bndbox>
+	</object>
+</annotation>
