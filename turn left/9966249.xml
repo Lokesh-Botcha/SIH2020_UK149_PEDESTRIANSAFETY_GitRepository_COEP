@@ -1,0 +1,26 @@
+<annotation>
+	<folder>turn left</folder>
+	<filename>9966249.jpg</filename>
+	<path>C:\turn left\9966249.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2240</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Turn left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>328</ymin>
+			<xmax>1791</xmax>
+			<ymax>1928</ymax>
+		</bndbox>
+	</object>
+</annotation>
