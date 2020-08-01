@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hospital</folder>
+	<filename>100000599639.jpg</filename>
+	<path>C:\Users\sarik\Desktop\sih\hospital\100000599639.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2240</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hospital</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>561</xmin>
+			<ymin>1226</ymin>
+			<xmax>1578</xmax>
+			<ymax>2256</ymax>
+		</bndbox>
+	</object>
+</annotation>
