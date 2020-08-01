@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pedestrian crossing</folder>
+	<filename>1957.jpg</filename>
+	<path>C:\Users\LAVUDI SAIKIRAN\Desktop\New folder\pedestrian crossing\1957.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2240</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrain crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>619</ymin>
+			<xmax>1851</xmax>
+			<ymax>2319</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrain crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>619</ymin>
+			<xmax>1764</xmax>
+			<ymax>2356</ymax>
+		</bndbox>
+	</object>
+</annotation>
