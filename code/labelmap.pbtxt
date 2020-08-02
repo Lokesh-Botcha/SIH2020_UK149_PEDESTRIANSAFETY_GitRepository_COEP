@@ -1,0 +1,84 @@
+item {
+  id: 1
+  name: 'Accident prone area'
+}
+
+item {
+  id: 2
+  name: 'compulsory sound horn'
+}
+item {
+  id: 3
+  name: 'go slow'
+}
+
+item {
+  id: 4
+  name: 'home zone'
+}
+
+item {
+  id: 5
+  name: 'hospital'
+}
+
+item {
+  id: 6
+  name: 'men at work'
+}
+
+item {
+  id: 7
+  name: 'pedestrian'
+}
+
+item {
+  id: 8
+  name: 'pedestrian crossing'
+}
+
+item {
+  id: 9
+  name: 'person'
+}
+
+item {
+  id: 10
+  name: 'play ground'
+}
+
+item {
+  id: 11
+  name: 'schools'
+}
+
+item {
+  id: 12
+  name: 'speed breaker'
+}
+
+item {
+  id: 13
+  name: 'speedlimit20'
+}
+
+item {
+  id: 14
+  name: 'speedlimit30'
+}
+
+item {
+  id: 15
+  name: 'turn left'
+}
+
+item {
+  id: 16
+  name: 'turn right'
+}
+
+item {
+  id: 17
+  name: 'vehicle'
+}
+
